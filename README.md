@@ -15,13 +15,13 @@ THIS TOOLS IS PAID. PURCHASE TOOLS PASSWORD TO RUN
 * [+] UID/GMAIL Cloning !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
-* [+] Working weirdnehal tool for termux & kali linux !
+* [+] Working K2-N tool for termux & kali linux !
 
 ### Commands :
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf PAID-N
+rm -rf K2-N
 ```
 
 To Install Tool Newly:
