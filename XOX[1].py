@@ -1,3 +1,7 @@
+# TOOLS OWNER - NEHAL AHMED
+# GITHUB      - weirdnehal
+# GITHUB      - https://github.com/weirdnehal
+
 exec("".join(map(chr,[int("".join(str({':(': 4,
  ':)': 0,
  ':/': 7,
